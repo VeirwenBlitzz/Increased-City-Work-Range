@@ -1,1 +1,8 @@
-{"constants":{"cityWorkRange":6,"cityExpandRange":6},"author":"VeirwenBlitzz","modUrl":"https://github.com/VeirwenBlitzz/Increased-City-Work-Range","topics":["unciv-mod","unciv-mod-fun"],"lastUpdated":"","modSize":0}
+{
+  "constants":{"cityWorkRange":6,"cityExpandRange":6},
+  "author":"VeirwenBlitzz",
+  "modUrl":"https://github.com/VeirwenBlitzz/Increased-City-Work-Range",
+  "topics":["unciv-mod","unciv-mod-fun"],
+  "lastUpdated":"",
+  "modSize":0
+}
